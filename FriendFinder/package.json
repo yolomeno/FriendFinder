@@ -1,0 +1,22 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "hw-13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolomeno/FriendFinder.git"
+  },
+  "keywords": [
+    "friend-finder"
+  ],
+  "author": "Yoloxochitl Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolomeno/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/yolomeno/FriendFinder#readme"
+}
